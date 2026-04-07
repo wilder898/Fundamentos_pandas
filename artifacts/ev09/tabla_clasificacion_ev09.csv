@@ -1,0 +1,12 @@
+﻿Variable,Tipo,Subtipo,Justificacion
+Rank,Cuantitativa,Discreta,Representa una posicion numerica entera en el ranking.
+Name,Cualitativa,Nominal,Nombre del videojuego; categorias sin orden.
+Platform,Cualitativa,Nominal,Plataforma de juego; categorias sin jerarquia.
+Year,Cuantitativa,Discreta,Ano de lanzamiento en valores enteros.
+Genre,Cualitativa,Nominal,Genero del juego; categorias sin orden natural.
+Publisher,Cualitativa,Nominal,Editorial del juego; categorias nominales.
+NA_Sales,Cuantitativa,Continua,Ventas en millones con decimales posibles.
+EU_Sales,Cuantitativa,Continua,Ventas en millones; variable medible continua.
+JP_Sales,Cuantitativa,Continua,Ventas en millones; permite valores decimales.
+Other_Sales,Cuantitativa,Continua,Ventas en otras regiones; magnitud continua.
+Global_Sales,Cuantitativa,Continua,Suma de ventas globales en escala continua.

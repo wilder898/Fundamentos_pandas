@@ -1,0 +1,12 @@
+﻿Variable,Tipo,Grafica_recomendada,Justificacion
+Rank,Cuantitativa Discreta,Barras,Conteo o comparacion por valores enteros.
+Name,Cualitativa Nominal,Barras,Comparar frecuencias por categoria sin orden.
+Platform,Cualitativa Nominal,Barras,Comparar frecuencias por categoria sin orden.
+Year,Cuantitativa Discreta,Linea,Permite ver la evolucion temporal de lanzamientos por ano.
+Genre,Cualitativa Nominal,Barras,Comparar frecuencias por categoria sin orden.
+Publisher,Cualitativa Nominal,Barras,Comparar frecuencias por categoria sin orden.
+NA_Sales,Cuantitativa Continua,Histograma y Boxplot,Permite analizar distribucion y valores atipicos de ventas.
+EU_Sales,Cuantitativa Continua,Histograma y Boxplot,Permite analizar distribucion y valores atipicos de ventas.
+JP_Sales,Cuantitativa Continua,Histograma y Boxplot,Permite analizar distribucion y valores atipicos de ventas.
+Other_Sales,Cuantitativa Continua,Histograma y Boxplot,Permite analizar distribucion y valores atipicos de ventas.
+Global_Sales,Cuantitativa Continua,Histograma y Boxplot,Permite analizar distribucion y valores atipicos de ventas.
